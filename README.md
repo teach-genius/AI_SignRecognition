@@ -133,8 +133,9 @@ Start the application:
 
 ## Authors
 
+- [@chantryolandaeyiba](https://github.com/teach-genius)
 - [@hibasofyan](https://github.com/hibaaaaaaaaaaa)
-- [@chantryolandaeyiba](https://github.com/aryadacademie)
+
 
 
 
